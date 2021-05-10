@@ -89,5 +89,5 @@
 			return "PersonDetail [firstname=" + firstname + ", lastname=" + lastname + ", address=" + address
 					+ ", city=" + city + ", state=" + state + ", zipcode=" + zipcode + ", phoneNumber=" + phoneNumber
 					+ "]";
-		}
+		 }
       }
